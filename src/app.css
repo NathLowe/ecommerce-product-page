@@ -1,0 +1,11 @@
+@font-face {
+    font-family: kumbh;
+    src: url('/polices/kumbh.ttf');
+}
+html {
+    scroll-behavior: smooth;
+}
+  
+body{
+    font-family: kumbh!important;
+}
